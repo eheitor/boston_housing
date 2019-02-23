@@ -1,6 +1,3 @@
-# boston_housing
-Predicting Boston Housing Prices
-
 # Project 1: Model Evaluation & Validation
 ## Predicting Boston Housing Prices
 
